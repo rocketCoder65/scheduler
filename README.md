@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## What This Boilerplate Contains
 
-- Everythinh create-react-app comes with 
+- Everything create-react-app comes with 
 - Storybook
 - React Testing Library
 
