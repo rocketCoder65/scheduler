@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What This Boilerplate Contains
+
+- Everythinh create-react-app comes with 
+- Storybook
+- React Testing Library
+
+
 ## Available Scripts
 
 In the project directory, you can run:
