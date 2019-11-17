@@ -4,7 +4,7 @@ const Calendar = () => (
   <div className="calendar">
     <div className="calendar__nav">
       <input 
-        className="calendar__month" 
+        className="calendar__year" 
         type="text" 
         defaultValue={new Date(Date.now()).getFullYear()} 
         aria-label="year"
